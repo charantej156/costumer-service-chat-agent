@@ -51,8 +51,7 @@ The retrieved text chunks are combined and passed to the Flan-T5 model, which ge
 Installation Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/Ecommerce-Chatbot.git
-   cd Ecommerce-Chatbot
+   git clone https://github.com/charantej156/costumer-service-chat-agent.git
    ```
 
 2. Create a virtual environment and activate it:
