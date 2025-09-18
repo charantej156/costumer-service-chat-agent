@@ -62,5 +62,5 @@ def search():
 with app.app_context():
     init_vector_database()
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
